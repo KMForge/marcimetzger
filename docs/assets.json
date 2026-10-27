@@ -1,0 +1,233 @@
+[
+  {
+    "name": "marci-metzger-logo",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/blob-6c0c2e0.png",
+    "file": "/assets/marci-metzger-logo.webp",
+    "use": "header",
+    "width": 660,
+    "height": 206,
+    "originalWidth": 2560,
+    "originalHeight": 798,
+    "srcSet": "/assets/marci-metzger-logo.webp 660w"
+  },
+  {
+    "name": "marci-metzger-portrait",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/photo-5db79f9.jpg",
+    "file": "/assets/marci-metzger-portrait.webp",
+    "use": "about",
+    "width": 1000,
+    "height": 1501,
+    "originalWidth": 1632,
+    "originalHeight": 2449,
+    "srcSet": "/assets/marci-metzger-portrait.webp 1000w, /assets/marci-metzger-portrait-400.webp 400w, /assets/marci-metzger-portrait-800.webp 800w"
+  },
+  {
+    "name": "mountain-falls-pond",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/mtn%20falls%20pond.jpg",
+    "file": "/assets/mountain-falls-pond.webp",
+    "use": "hero",
+    "width": 1920,
+    "height": 1275,
+    "originalWidth": 2560,
+    "originalHeight": 1700,
+    "srcSet": "/assets/mountain-falls-pond.webp 1920w, /assets/mountain-falls-pond-400.webp 400w, /assets/mountain-falls-pond-800.webp 800w"
+  },
+  {
+    "name": "residential-sales",
+    "source": "https://img1.wsimg.com/isteam/stock/3395",
+    "file": "/assets/residential-sales.webp",
+    "use": "results",
+    "width": 1920,
+    "height": 1232,
+    "originalWidth": 2245,
+    "originalHeight": 1440,
+    "srcSet": "/assets/residential-sales.webp 1920w, /assets/residential-sales-400.webp 400w, /assets/residential-sales-800.webp 800w"
+  },
+  {
+    "name": "listing-marketing",
+    "source": "https://img1.wsimg.com/isteam/stock/107927",
+    "file": "/assets/listing-marketing.webp",
+    "use": "selling",
+    "width": 1000,
+    "height": 666,
+    "originalWidth": 2164,
+    "originalHeight": 1440,
+    "srcSet": "/assets/listing-marketing.webp 1000w, /assets/listing-marketing-400.webp 400w, /assets/listing-marketing-800.webp 800w"
+  },
+  {
+    "name": "buyer-guidance",
+    "source": "https://img1.wsimg.com/isteam/stock/771",
+    "file": "/assets/buyer-guidance.webp",
+    "use": "buying",
+    "width": 1000,
+    "height": 540,
+    "originalWidth": 2560,
+    "originalHeight": 1383,
+    "srcSet": "/assets/buyer-guidance.webp 1000w, /assets/buyer-guidance-400.webp 400w, /assets/buyer-guidance-800.webp 800w"
+  },
+  {
+    "name": "ridge-realty-logo",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/BIG%20CIRCLE%202.png",
+    "file": "/assets/ridge-realty-logo.webp",
+    "use": "affiliations",
+    "width": 240,
+    "height": 240,
+    "originalWidth": 2560,
+    "originalHeight": 2560,
+    "srcSet": "/assets/ridge-realty-logo.webp 240w"
+  },
+  {
+    "name": "equal-housing-logo",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Equal%20Housing%20Logo.png",
+    "file": "/assets/equal-housing-logo.webp",
+    "use": "affiliations",
+    "width": 240,
+    "height": 241,
+    "originalWidth": 1500,
+    "originalHeight": 1507,
+    "srcSet": "/assets/equal-housing-logo.webp 240w"
+  },
+  {
+    "name": "realtor-logo",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Realtor%20Pin.jpg",
+    "file": "/assets/realtor-logo.webp",
+    "use": "affiliations",
+    "width": 240,
+    "height": 215,
+    "originalWidth": 412,
+    "originalHeight": 369,
+    "srcSet": "/assets/realtor-logo.webp 240w"
+  },
+  {
+    "name": "chamber-logo",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Chamber.jpg",
+    "file": "/assets/chamber-logo.webp",
+    "use": "affiliations",
+    "width": 200,
+    "height": 200,
+    "originalWidth": 200,
+    "originalHeight": 200,
+    "srcSet": "/assets/chamber-logo.webp 200w"
+  },
+  {
+    "name": "real-estate-done-right",
+    "source": "https://img1.wsimg.com/isteam/stock/12792",
+    "file": "/assets/real-estate-done-right.webp",
+    "use": "services",
+    "width": 1000,
+    "height": 667,
+    "originalWidth": 2160,
+    "originalHeight": 1440,
+    "srcSet": "/assets/real-estate-done-right.webp 1000w, /assets/real-estate-done-right-400.webp 400w, /assets/real-estate-done-right-800.webp 800w"
+  },
+  {
+    "name": "commercial-residential",
+    "source": "https://img1.wsimg.com/isteam/stock/43920",
+    "file": "/assets/commercial-residential.webp",
+    "use": "services",
+    "width": 1000,
+    "height": 640,
+    "originalWidth": 2249,
+    "originalHeight": 1440,
+    "srcSet": "/assets/commercial-residential.webp 1000w, /assets/commercial-residential-400.webp 400w, /assets/commercial-residential-800.webp 800w"
+  },
+  {
+    "name": "real-estate-expertise",
+    "source": "https://img1.wsimg.com/isteam/stock/kayaJdA",
+    "file": "/assets/real-estate-expertise.webp",
+    "use": "services",
+    "width": 1000,
+    "height": 667,
+    "originalWidth": 1254,
+    "originalHeight": 836,
+    "srcSet": "/assets/real-estate-expertise.webp 1000w, /assets/real-estate-expertise-400.webp 400w, /assets/real-estate-expertise-800.webp 800w"
+  },
+  {
+    "name": "search-landscape",
+    "source": "https://img1.wsimg.com/isteam/getty/2223376026",
+    "file": "/assets/search-landscape.webp",
+    "use": "search",
+    "width": 1920,
+    "height": 1280,
+    "originalWidth": 2121,
+    "originalHeight": 1414,
+    "srcSet": "/assets/search-landscape.webp 1920w, /assets/search-landscape-400.webp 400w, /assets/search-landscape-800.webp 800w"
+  },
+  {
+    "name": "4460-roseworthy-52",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4460%20Roseworthy-52.jpg-SMALL.JPG",
+    "file": "/assets/4460-roseworthy-52.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 682,
+    "originalWidth": 1024,
+    "originalHeight": 682,
+    "srcSet": "/assets/4460-roseworthy-52.webp 1024w, /assets/4460-roseworthy-52-400.webp 400w, /assets/4460-roseworthy-52-800.webp 800w"
+  },
+  {
+    "name": "5570-ailanto-14",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-14.jpg-SMALL.JPG",
+    "file": "/assets/5570-ailanto-14.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 682,
+    "originalWidth": 1024,
+    "originalHeight": 682,
+    "srcSet": "/assets/5570-ailanto-14.webp 1024w, /assets/5570-ailanto-14-400.webp 400w, /assets/5570-ailanto-14-800.webp 800w"
+  },
+  {
+    "name": "5570-ailanto-45",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-45.jpg-SMALL.JPG",
+    "file": "/assets/5570-ailanto-45.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 682,
+    "originalWidth": 1024,
+    "originalHeight": 682,
+    "srcSet": "/assets/5570-ailanto-45.webp 1024w, /assets/5570-ailanto-45-400.webp 400w, /assets/5570-ailanto-45-800.webp 800w"
+  },
+  {
+    "name": "5570-ailanto-50",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-50.jpg-SMALL.JPG",
+    "file": "/assets/5570-ailanto-50.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 682,
+    "originalWidth": 1024,
+    "originalHeight": 682,
+    "srcSet": "/assets/5570-ailanto-50.webp 1024w, /assets/5570-ailanto-50-400.webp 400w, /assets/5570-ailanto-50-800.webp 800w"
+  },
+  {
+    "name": "4787-e-beacon-ridge-54",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-54.jpg-SMALL.JPG",
+    "file": "/assets/4787-e-beacon-ridge-54.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 682,
+    "originalWidth": 1024,
+    "originalHeight": 682,
+    "srcSet": "/assets/4787-e-beacon-ridge-54.webp 1024w, /assets/4787-e-beacon-ridge-54-400.webp 400w, /assets/4787-e-beacon-ridge-54-800.webp 800w"
+  },
+  {
+    "name": "4787-e-beacon-ridge-53",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-53.jpg-SMALL.JPG",
+    "file": "/assets/4787-e-beacon-ridge-53.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 683,
+    "originalWidth": 1024,
+    "originalHeight": 683,
+    "srcSet": "/assets/4787-e-beacon-ridge-53.webp 1024w, /assets/4787-e-beacon-ridge-53-400.webp 400w, /assets/4787-e-beacon-ridge-53-800.webp 800w"
+  },
+  {
+    "name": "4787-e-beacon-ridge-41",
+    "source": "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-41.jpg-SMALL.JPG",
+    "file": "/assets/4787-e-beacon-ridge-41.webp",
+    "use": "gallery",
+    "width": 1024,
+    "height": 683,
+    "originalWidth": 1024,
+    "originalHeight": 683,
+    "srcSet": "/assets/4787-e-beacon-ridge-41.webp 1024w, /assets/4787-e-beacon-ridge-41-400.webp 400w, /assets/4787-e-beacon-ridge-41-800.webp 800w"
+  }
+]
