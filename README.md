@@ -1,4 +1,4 @@
-﻿# Marci Metzger — homepage assessment
+# Marci Metzger — homepage assessment
 
 A separate, single-page redesign of https://marcimetzger.com/ built with React, TypeScript, Vite, and Tailwind CSS. All 21 editorial images and logos come directly from the reference homepage. This is an independent assessment project, not the agent's replacement production website.
 
@@ -29,6 +29,18 @@ npm test
 ```
 
 The Playwright configuration uses installed Microsoft Edge. On a machine without Edge, install it or change `channel` in `playwright.config.ts` and install the corresponding Playwright browser. Tests start/reuse the production preview; rebuild after changing source. Tests cover responsive layout, image loading, console errors, axe accessibility, menus, gallery, forms, anchors, and local asset coverage. Screenshots are written to `research/`.
+
+## Deploy this repository to Vercel
+
+1. Sign into Vercel and open https://vercel.com/new.
+2. Import `KMForge/marcimetzger` from GitHub. If it is not listed, grant the Vercel GitHub integration access to that repository.
+3. Keep the root directory at the repository root. The included `vercel.json` sets framework **Vite**, install command **npm ci**, build command **npm run build**, and output directory **dist**. `package.json` selects Node.js **24.x**.
+4. Leave environment variables empty and select **Deploy**.
+5. Once the deployment is Ready, open the assigned production URL in a signed-out/private browser and check the gallery, search, mobile menu, and images. Ensure the production URL is publicly accessible for the assessment.
+
+Subsequent pushes to the production branch (`main`) can be deployed by the Vercel GitHub integration. No catch-all rewrite is required: this homepage uses section anchors and has no client-side routes. Do not submit a repository URL as the website deliverable.
+
+Official Vite hosting documentation: https://vercel.com/docs/frameworks/frontend/vite.
 
 ## Hosting on a free static host
 

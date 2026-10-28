@@ -1,15 +1,19 @@
-﻿# Deployment configuration
+# Deployment configuration
 
 The project is ready for static hosting from `dist/`. No secrets or environment variables are needed for the implemented behavior.
 
-A Sites hosting project has been registered:
+The existing Sites deployment succeeded and was verified in a signed-out browser (HTTP 200, no broken images or page errors, working mobile navigation):
 
 - Project ID: `appgprj_6ae0290709848191852cdc5e1bab1c98`
 - Target origin: https://marci-metzger-homepage-assessment.luckyhero11.chatgpt.site
 - Manifest: `.openai/hosting.json`
 - Static directory: `dist`
 
-The target origin alone does not prove publication. Use the deployment result and a signed-out visit to verify that the site is public before submitting it. The final handoff reports the actual publication result.
+## Vercel deployment
+
+The GitHub source repository is https://github.com/KMForge/marcimetzger. Import it at https://vercel.com/new using the repository root. `vercel.json` defines Vite, `npm ci`, `npm run build`, and `dist`; `package.json` selects Node.js 24.x. No environment variables are needed.
+
+Vercel deployment has not yet been initiated or verified. After importing, wait for Ready and verify the assigned production URL in a signed-out browser. See the Vercel steps in `README.md`.
 
 For an independently managed free-hosting account, follow the Netlify or Cloudflare Pages steps in `README.md`. The same production folder can be uploaded without modifying the React application.
 
